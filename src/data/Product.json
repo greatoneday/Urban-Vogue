@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "product_name": "RED DENT",
+        "description": "The RED DENT is a high-quality denture cleaner that effectively removes stains and kills bacteria. Its advanced formula ensures your dentures stay fresh and hygienic throughout the day.",
+        "img": "/asset/pexels-alexandra-maria-58259-336372.jpg"
+    },
+    {
+        "id": 2,
+        "product_name": "TOTE BAG",
+        "description": "Our Tote Bag is made from durable, eco-friendly fabric and features a spacious main compartment with comfortable shoulder straps. Perfect for shopping, work, or casual outings.",
+        "img": "/asset/pexels-cottonbro-4068314.jpg"
+    },
+    {
+        "id": 3,
+        "product_name": "MUTTON BAG",
+        "description": "The Mutton Bag is designed to keep meat fresh with its insulated, leak-proof construction. Ideal for grocery shopping or transporting food, it ensures safe and hygienic handling.",
+        "img": "/asset/pexels-elenarubtso-15764524.jpg"
+    },
+    {
+        "id": 4,
+        "product_name": "SWEAT SHIRT",
+        "description": "This Sweat Shirt offers a comfortable fit with soft, breathable fabric. Featuring a relaxed fit, ribbed cuffs, and a classic crew neck, it’s perfect for casual wear or lounging.",
+        "img": "/asset/pexels-dom-j-7304-45982.jpg"
+    },
+    {
+        "id": 5,
+        "product_name": "GROCERY BAGS",
+        "description": "Our reusable Grocery Bags are made from durable, tear-resistant material and feature reinforced handles for heavy loads. Eco-friendly and easy to clean, they are a practical choice for shopping.",
+        "img": "/asset/pexels-max-fischer-5868241.jpg"
+    },
+    {
+        "id": 6,
+        "product_name": "JEANS",
+        "description": "These Jeans are crafted from high-quality denim with a slim fit and classic design. Ideal for both casual and semi-formal occasions, they offer comfort and style that lasts.",
+        "img": "/asset/pexels-godisable-jacob-226636-914668.jpg"
+    }
+]
